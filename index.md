@@ -12,5 +12,5 @@ The Gundam Wing series is set in a future where Earth and its colonies are locke
 
 <img src="gundam2.png" width="800">
 
-<a href="https://github.com/Gafalcons7/Gafalcons7.github.io/blob/main/about.md">This is my About ME page</a></body></html>
+<a href="https://github.com/Gafalcons7/Gafalcons7.github.io/blob/main/about.md">This is my About ME page</a>
 
